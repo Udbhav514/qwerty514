@@ -1,3 +1,3 @@
-#Heading
+#HEADING
 
-##subheading
+##SUBHEADING
